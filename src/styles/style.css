@@ -133,4 +133,5 @@ div.div-footer {
 
 div.div-footer i {
   color: var(--icons-color);
+  cursor: pointer;
 }
