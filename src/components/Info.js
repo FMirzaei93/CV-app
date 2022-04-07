@@ -13,7 +13,7 @@ function Info() {
         </button>
 
         <button className='btn-linkedIn'>
-          <i className='fab fa-linkedin'></i> linkedIn
+          <i className='fab fa-linkedin-square'></i> linkedIn
         </button>
       </div>
     </div>
