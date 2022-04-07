@@ -35,7 +35,12 @@ div.container {
 
 img.profile-photo {
   /* Make an image to fit its parent dimensions */
-  max-width: 100%;
+  width: 100%;
+
+  /* For specifying image's height and status */
+  /* height: 200px;
+  object-fit: cover;
+  object-position: center; */
 }
 
 div.info-container p {
